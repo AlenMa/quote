@@ -6,10 +6,10 @@ Created on 2014-12-7
 import smtplib
 from email.mime.text import MIMEText
 
-mail_host='smtp.sina.com'
+mail_host='smtp.qq.com'
 mail_user='ay8mateng'
-mail_pass='mtaixq1314'
-mail_postfix='sina.com'
+mail_pass='aymf900115'
+mail_postfix='qq.com'
 
 mailto_list=['16709732@qq.com']
 
